@@ -16,9 +16,21 @@ Screenshot 3 - Get transactions
 Screenshot 4 - Get transaction by id
 ![Screenshot 4 - Get transaction by id](Screenshot%202026-05-24%20235130.png)
 
+Screenshot 5 - Get me with token
+![Screenshot 5 - Get me with token](Screenshot%202026-05-25%20000836.png)
+
+Screenshot 6 - Get me without token
+![Screenshot 6 - Get me without token](Screenshot%202026-05-25%20000854.png)
+
 Running my App (Browser)
 Screenshot 1 - Browser app URL
 ![Screenshot 1 - Browser app URL](Screenshot%202026-05-24%20233554.png)
+
+Screenshot 2 - Localhost root
+![Screenshot 2 - Localhost root](Screenshot%202026-05-25%20000144.png)
+
+Screenshot 3 - Localhost demo page
+![Screenshot 3 - Localhost demo page](Screenshot%202026-05-25%20000225.png)
 
 Differences
 - deploy-app-02 does not have authentication.
