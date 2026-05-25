@@ -4,22 +4,21 @@ App
 Heroku URL: https://spu-harrism13-transactions-api-b85d0adb66ca.herokuapp.com/
 
 Running my App (Postman)
-Screenshots are in `docs/screenshots/postman`.
-I tested:
-- POST `/api/auth/register`
-- POST `/api/auth/login`
-- GET `/api/auth/me`
-- PATCH `/api/auth/change-password`
-- POST `/api/transactions`
-- GET `/api/transactions`
-- GET `/api/transactions/:id`
+Screenshot 1 - Register user
+![Screenshot 1 - Register user](Screenshot%202026-05-24%20233651.png)
+
+Screenshot 2 - Create transaction
+![Screenshot 2 - Create transaction](Screenshot%202026-05-24%20234619.png)
+
+Screenshot 3 - Get transactions
+![Screenshot 3 - Get transactions](Screenshot%202026-05-24%20234709.png)
+
+Screenshot 4 - Get transaction by id
+![Screenshot 4 - Get transaction by id](Screenshot%202026-05-24%20235130.png)
 
 Running my App (Browser)
-Screenshots are in `docs/screenshots/browser`.
-I tested:
-- `https://spu-harrism13-transactions-api-b85d0adb66ca.herokuapp.com/`
-- `http://localhost:3000/`
-- `http://localhost:3000/demo.html`
+Screenshot 1 - Browser app URL
+![Screenshot 1 - Browser app URL](Screenshot%202026-05-24%20233554.png)
 
 Differences
 - deploy-app-02 does not have authentication.
